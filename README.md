@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hi 👋, I'm Carlos Sosa Q.")</h1>
+console.log("Hi 👋, I'm Carlos Sosa Q.")
 
 ```js
 const mySkills = {

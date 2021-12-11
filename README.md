@@ -1,4 +1,4 @@
-console.log("Hi 👋, I'm Carlos Sosa Q.")
+<h2>console.log("Hi 👋, I'm Carlos Sosa Q.")</h2>
 
 ```js
 const mySkills = {
